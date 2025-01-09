@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help | GNX"];
+const statusMessages = ["/help | GNX Utilities"];
 
 
 let currentIndex = 0;
