@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/hgcxEArxzq","Try /economy in GNX Designs"];
+const statusMessages = ["/help | GNX"];
 
 
 let currentIndex = 0;
